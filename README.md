@@ -1,6 +1,6 @@
 # restaurant
 
-> A Vue.js project
+> A Vue.js project for restaurant service clients/admin - using vuex, firebase as server and auth cheking
 
 ## Build Setup
 
